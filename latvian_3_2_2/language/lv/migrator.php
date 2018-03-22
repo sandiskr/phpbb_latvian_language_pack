@@ -37,11 +37,11 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CONFIG_NOT_EXIST'					=> 'The config setting "%s" unexpectedly does not exist.',
+	'CONFIG_NOT_EXIST'					=> 'Iestatījums "%s" negaidīti neeksistē.',
 
-	'GROUP_NOT_EXIST'					=> 'The group "%s" unexpectedly does not exist.',
+	'GROUP_NOT_EXIST'					=> 'Grupa "%s" negaidīti neeksistē.',
 
-	'MIGRATION_APPLY_DEPENDENCIES'		=> 'Apply dependencies of %s.',
+	'MIGRATION_APPLY_DEPENDENCIES'		=> 'Piešķirt atkarību %s.',
 	'MIGRATION_DATA_DONE'				=> 'Installed Data: %1$s; Time: %2$.2f seconds',
 	'MIGRATION_DATA_IN_PROGRESS'		=> 'Installing Data: %1$s; Time: %2$.2f seconds',
 	'MIGRATION_DATA_RUNNING'			=> 'Installing Data: %s.',
