@@ -37,10 +37,10 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ADD_ATTACHMENT'			=> 'Upload attachment',
-	'ADD_ATTACHMENT_EXPLAIN'	=> 'If you wish to attach one or more files enter the details below.',
-	'ADD_FILE'					=> 'Add the file',
-	'ADD_POLL'					=> 'Poll creation',
+	'ADD_ATTACHMENT'			=> 'Augšupielādēt datni',
+	'ADD_ATTACHMENT_EXPLAIN'	=> 'Ja vēlies pievienot vienu vai vairākas datnes, ievadi tās zemāk.',
+	'ADD_FILE'					=> 'Pievienot datni',
+	'ADD_POLL'					=> 'Izveidot aptauju',
 	'ADD_POLL_EXPLAIN'			=> 'If you do not want to add a poll to your topic leave the fields blank.',
 	'ALREADY_DELETED'			=> 'Sorry but this message is already deleted.',
 	'ATTACH_DISK_FULL'			=> 'There is not enough free disk space to post this attachment.',
