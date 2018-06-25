@@ -60,7 +60,7 @@ $lang = array_merge($lang, array(
 
 	'POST_FORUM_LOCKED'		=> 'Forums ir slēgts',
 
-	'TOPICS_MARKED'			=> 'The topics for this forum have now been marked read.',
+	'TOPICS_MARKED'			=> 'Temati šajā forumā ir atzīmēti kā lasīti.',
 
 	'UNREAD_POSTS_HOT'		=> 'Nelasītie raksti [ Populārie ]',
 	'UNREAD_POSTS_LOCKED'	=> 'Nelasītie raksti [ Slēgtie ]',
