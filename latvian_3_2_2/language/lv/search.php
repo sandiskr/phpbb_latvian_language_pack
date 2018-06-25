@@ -108,13 +108,13 @@ $lang = array_merge($lang, array(
 	'SEARCH_TITLE_MSG'			=> 'Post subjects and message text',
 	'SEARCH_TITLE_ONLY'			=> 'Topic titles only',
 	'SEARCH_WITHIN'				=> 'Search within',
-	'SORT_ASCENDING'			=> 'Ascending',
+	'SORT_ASCENDING'			=> 'No augšas',
 	'SORT_AUTHOR'				=> 'Author',
-	'SORT_DESCENDING'			=> 'Descending',
+	'SORT_DESCENDING'			=> 'No apakšas',
 	'SORT_FORUM'				=> 'Forum',
 	'SORT_POST_SUBJECT'			=> 'Post subject',
 	'SORT_TIME'					=> 'Post time',
-	'SPHINX_SEARCH_FAILED'		=> 'Search failed: %s',
+	'SPHINX_SEARCH_FAILED'		=> 'Nesekmīga meklēšana: %s',
 	'SPHINX_SEARCH_FAILED_LOG'	=> 'Sorry, search could not be performed. More information about this failure has been logged in the error log.',
 
 	'TOO_FEW_AUTHOR_CHARS'	=> array(
