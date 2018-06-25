@@ -37,37 +37,37 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'			=> 'Active topics',
-	'ANNOUNCEMENTS'			=> 'Announcements',
+	'ACTIVE_TOPICS'			=> 'Aktīvie temati',
+	'ANNOUNCEMENTS'			=> 'Paziņojumi',
 
-	'FORUM_PERMISSIONS'		=> 'Forum permissions',
+	'FORUM_PERMISSIONS'		=> 'Foruma atļaujas',
 
-	'ICON_ANNOUNCEMENT'		=> 'Announcement',
-	'ICON_STICKY'			=> 'Sticky',
+	'ICON_ANNOUNCEMENT'		=> 'Paziņojums',
+	'ICON_STICKY'			=> 'Svarīgi',
 
-	'LOGIN_NOTIFY_FORUM'	=> 'You have been notified about this forum, please login to view it.',
+	'LOGIN_NOTIFY_FORUM'	=> 'Tu esi informēts par šo forumu, lūdzu pieslēdzies, lai to apskatītu.',
 
-	'MARK_TOPICS_READ'		=> 'Mark topics read',
+	'MARK_TOPICS_READ'		=> 'Atzīmēt tematus kā lasītus',
 
-	'NEW_POSTS_HOT'			=> 'New posts [ Popular ]',	// Not used anymore
+	'NEW_POSTS_HOT'			=> 'Jauni raksti [ Populārie ]',	// Not used anymore
 	'NEW_POSTS_LOCKED'		=> 'New posts [ Locked ]',	// Not used anymore
 	'NO_NEW_POSTS_HOT'		=> 'No new posts [ Popular ]',	// Not used anymore
 	'NO_NEW_POSTS_LOCKED'	=> 'No new posts [ Locked ]',	// Not used anymore
-	'NO_READ_ACCESS'		=> 'You do not have the required permissions to view or read topics within this forum.',
-	'NO_FORUMS_IN_CATEGORY'	=> 'This category has no forums.',
-	'NO_UNREAD_POSTS_HOT'		=> 'No unread posts [ Popular ]',
-	'NO_UNREAD_POSTS_LOCKED'	=> 'No unread posts [ Locked ]',
+	'NO_READ_ACCESS'		=> 'Tev nav tiesību skatīt un lasīt tēmas šajā forumā.',
+	'NO_FORUMS_IN_CATEGORY'	=> 'Šai kategorijai nav forumu.',
+	'NO_UNREAD_POSTS_HOT'		=> 'Nav nelasītu rakstu [ Populārie ]',
+	'NO_UNREAD_POSTS_LOCKED'	=> 'Nav nelastītu rakstu [ Slēgtie ]',
 
-	'POST_FORUM_LOCKED'		=> 'Forum is locked',
+	'POST_FORUM_LOCKED'		=> 'Forums ir slēgts',
 
 	'TOPICS_MARKED'			=> 'The topics for this forum have now been marked read.',
 
-	'UNREAD_POSTS_HOT'		=> 'Unread posts [ Popular ]',
-	'UNREAD_POSTS_LOCKED'	=> 'Unread posts [ Locked ]',
+	'UNREAD_POSTS_HOT'		=> 'Nelasītie raksti [ Populārie ]',
+	'UNREAD_POSTS_LOCKED'	=> 'Nelasītie raksti [ Slēgtie ]',
 
-	'VIEW_FORUM'			=> 'View forum',
+	'VIEW_FORUM'			=> 'Apskatīt forumu',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d topic',
-		2	=> '%d topics',
+		1	=> '%d temats',
+		2	=> '%d temati',
 	),
 ));
