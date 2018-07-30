@@ -37,24 +37,24 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ABOUT_USER'			=> 'Profile',
-	'ACTIVE_IN_FORUM'		=> 'Most active forum',
-	'ACTIVE_IN_TOPIC'		=> 'Most active topic',
-	'ADD_FOE'				=> 'Add foe',
-	'ADD_FRIEND'			=> 'Add friend',
-	'AFTER'					=> 'After',
+	'ABOUT_USER'			=> 'Profils',
+	'ACTIVE_IN_FORUM'		=> 'Aktīvākais forums',
+	'ACTIVE_IN_TOPIC'		=> 'Aktīvākā tēma',
+	'ADD_FOE'				=> 'Pievienot nedraugu',
+	'ADD_FRIEND'			=> 'Pievienot draugu',
+	'AFTER'					=> 'Pēc',
 
-	'ALL'					=> 'All',
+	'ALL'					=> 'Visi',
 
-	'BEFORE'				=> 'Before',
+	'BEFORE'				=> 'Pirms',
 
-	'CC_SENDER'				=> 'Send a copy of this email to yourself.',
-	'CONTACT_ADMIN'			=> 'Contact a Board Administrator',
+	'CC_SENDER'				=> 'Nosūtīt šī epasta kopiju sev.',
+	'CONTACT_ADMIN'			=> 'Sazināties ar foruma administratoru',
 
-	'DEST_LANG'				=> 'Language',
-	'DEST_LANG_EXPLAIN'		=> 'Select an appropriate language (if available) for the recipient of this message.',
+	'DEST_LANG'				=> 'Valoda',
+	'DEST_LANG_EXPLAIN'		=> 'Izvēlieties atbilstošu valoda (ja pieejama) šīs ziņas saņēmējam.',
 
-	'EDIT_PROFILE'			=> 'Edit profile',
+	'EDIT_PROFILE'			=> 'Labot profilu',
 
 	'EMAIL_BODY_EXPLAIN'	=> 'This message will be sent as plain text, do not include any HTML or BBCode. The return address for this message will be set to your email address.',
 	'EMAIL_DISABLED'		=> 'Sorry but all email related functions have been disabled.',
@@ -90,11 +90,11 @@ $lang = array_merge($lang, array(
 	'IM_SENT_JABBER'		=> 'Your message to %1$s has been sent successfully.',
 	'IM_USER'				=> 'Send an instant message',
 
-	'LAST_ACTIVE'				=> 'Last active',
-	'LESS_THAN'					=> 'Less than',
+	'LAST_ACTIVE'				=> 'Pēdējo reizi redzēts',
+	'LESS_THAN'					=> 'Mazāk nekā',
 	'LIST_USERS'				=> array(
-		1	=> '%d user',
-		2	=> '%d users',
+		1	=> '%d lietotājs',
+		2	=> '%d lietotāji',
 	),
 	'LOGIN_EXPLAIN_TEAM'		=> 'The board requires you to be registered and logged in to view the team listing.',
 	'LOGIN_EXPLAIN_MEMBERLIST'	=> 'The board requires you to be registered and logged in to access the memberlist.',
@@ -116,8 +116,8 @@ $lang = array_merge($lang, array(
 
 	'REAL_NAME'				=> 'Recipient name',
 	'RECIPIENT'				=> 'Recipient',
-	'REMOVE_FOE'			=> 'Remove foe',
-	'REMOVE_FRIEND'			=> 'Remove friend',
+	'REMOVE_FOE'			=> 'Noņemt nedraugu',
+	'REMOVE_FRIEND'			=> 'Noņemt draugu',
 
 	'SELECT_MARKED'			=> 'Select marked',
 	'SELECT_SORT_METHOD'	=> 'Select sort method',
