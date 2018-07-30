@@ -73,7 +73,7 @@ $lang = array_merge($lang, array(
 	'GROUP_RESIGN_PENDING_CONFIRM'		=> 'Are you sure you want to resign your pending membership from the selected group?',
 	'GROUP_RESIGNED_MEMBERSHIP'			=> 'You were successfully removed from the selected group.',
 	'GROUP_RESIGNED_PENDING'			=> 'Your pending membership was successfully removed from the selected group.',
-	'GROUP_TYPE'						=> 'Group type',
+	'GROUP_TYPE'						=> 'Grupas tips',
 	'GROUP_UNDISCLOSED'					=> 'Hidden group',
 	'FORUM_UNDISCLOSED'					=> 'Moderating hidden forum(s)',
 
