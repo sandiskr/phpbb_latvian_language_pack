@@ -50,15 +50,15 @@ $lang = array_merge($lang, array(
 	// You can define different rules for the determination of plural forms here.
 	// See https://area51.phpbb.com/docs/dev/32x/language/plurals.html for more information
 	// or ask the translation manager for help.
-	'PLURAL_RULE'		=> 1,
+	'PLURAL_RULE'		=> 3,
 
-	'1_DAY'			=> '1 day',
-	'1_MONTH'		=> '1 month',
-	'1_YEAR'		=> '1 year',
-	'2_WEEKS'		=> '2 weeks',
-	'3_MONTHS'		=> '3 months',
-	'6_MONTHS'		=> '6 months',
-	'7_DAYS'		=> '7 days',
+	'1_DAY'			=> '1 diena',
+	'1_MONTH'		=> '1 mēnesis',
+	'1_YEAR'		=> '1 gads',
+	'2_WEEKS'		=> '2 nedēļas',
+	'3_MONTHS'		=> '3 mēneši',
+	'6_MONTHS'		=> '6 mēneši',
+	'7_DAYS'		=> '7 dienas',
 
 	'ACCOUNT_ALREADY_ACTIVATED'		=> 'Your account has already been activated.',
 	'ACCOUNT_DEACTIVATED'			=> 'Your account has been manually deactivated and is only able to be reactivated by an administrator.',
