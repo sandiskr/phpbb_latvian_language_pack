@@ -360,7 +360,7 @@ $lang = array_merge($lang, array(
 	'KB'					=> 'KB',
 	'KIB'					=> 'KiB',
 
-	'LAST_POST'							=> 'Pēdējais ieraksts',
+	'LAST_POST'							=> 'Jaunākais ieraksts',
 	'LAST_UPDATED'						=> 'Last updated',
 	'LAST_VISIT'						=> 'Last visit',
 	'LDAP_NO_LDAP_EXTENSION'			=> 'LDAP extension not available.',
