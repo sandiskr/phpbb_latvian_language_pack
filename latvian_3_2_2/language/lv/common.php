@@ -63,7 +63,7 @@ $lang = array_merge($lang, array(
 	'ACCOUNT_ALREADY_ACTIVATED'		=> 'Jūsu konts jau ir aktivizēts.',
 	'ACCOUNT_DEACTIVATED'			=> 'Jūsu konts ir manuāli deaktivizēts un to var atkal aktivizēt tikai administrators.',
 	'ACCOUNT_NOT_ACTIVATED'			=> 'Jūsu konts vēl nav aktivizēts.',
-	'ACP'							=> 'Vadības kontrolpanelis',
+	'ACP'							=> 'Vadības Kontroles Panelis',
 	'ACP_SHORT'						=> 'VKP',
 	'ACTIVE'						=> 'aktīvs',
 	'ACTIVE_ERROR'					=> 'Norādītais lietotājvārds pašlaik ir neaktīvs. Ja Jums ir problēmas aktivizēt savu kontu, lūdzu, sazinities ar foruma administratoru.',
@@ -397,7 +397,7 @@ $lang = array_merge($lang, array(
 	'MARK'					=> 'Atzīmēt',
 	'MARK_ALL'				=> 'Atzīmēt visu',
 	'MARK_ALL_READ'			=> 'Mark all read',
-	'MARK_FORUMS_READ'		=> 'Atzīmēt visu Forumu kā lasītu',
+	'MARK_FORUMS_READ'		=> 'Atzīmēt visas Foruma ziņas kā izlasītas',
 	'MARK_READ'				=> 'Mark read',
 	'MARK_SUBFORUMS_READ'	=> 'Atzīmēt apakštēmas kā lasītas',
 	'MB'					=> 'MB',
@@ -467,7 +467,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_POST_DISAPPROVED'		=> '<strong>Post disapproved</strong>:',
 	'NOTIFICATION_POST_IN_QUEUE'		=> '<strong>Post approval</strong> request by %1$s:',
 	'NOTIFICATION_QUOTE'				=> array(
-		1	=> '<strong>Citēja</strong> %1$s tēmā:',
+		1	=> 'Lietotājs %1%s <strong>citēja</strong> tēmā:',
 	),
 	'NOTIFICATION_REFERENCE'			=> '"%1$s"',
 	'NOTIFICATION_REASON'				=> '<em>Reason:</em> %1$s.',
@@ -523,7 +523,7 @@ $lang = array_merge($lang, array(
 	'NO_TOPIC_FORUM'			=> 'The topic or forum no longer exists.',
 	'NO_TOPICS'					=> 'There are no topics or posts in this forum.',
 	'NO_TOPICS_TIME_FRAME'		=> 'No topics exist inside this forum for the selected time frame.',
-	'NO_UNREAD_POSTS'			=> 'Nav nelasītu ziņojumu',
+	'NO_UNREAD_POSTS'			=> 'Visi ziņojumi izlasīti',
 	'NO_UPLOAD_FORM_FOUND'		=> 'Upload initiated but no valid file upload form found.',
 	'NO_USER'					=> 'The requested user does not exist.',
 	'NO_USERS'					=> 'The requested users do not exist.',
@@ -551,8 +551,8 @@ $lang = array_merge($lang, array(
 	),
 	// "... :: x registered, y hidden and z guests"
 	'ONLINE_USERS_TOTAL_GUESTS'	=> array(
-		1	=> 'Kopumā pieslēdzies <strong>%1$d</strong> lietotājs tiešsaistē :: %2$s, %3$s and %4$s',
-		2	=> 'Kopumā pieslēgušies <strong>%1$d</strong> lietotāji tiešsaistē :: %2$s, %3$s and %4$s',
+		1	=> 'Tiešsaistē ir <strong>%1$d</strong> lietotājs :: %2$s, %3$s and %4$s',
+		2	=> 'Tiešsaistē ir <strong>%1$d</strong> lietotāji :: %2$s, %3$s and %4$s',
 	),
 	'OPTIONS'					=> 'Options',
 
@@ -851,7 +851,7 @@ $lang = array_merge($lang, array(
 	'VIEW_BOOKMARKS'			=> 'View bookmarks',
 	'VIEW_FORUM_LOGS'			=> 'View Logs',
 	'VIEW_LATEST_POST'			=> 'View the latest post',
-	'VIEW_NEWEST_POST'			=> 'Pirmā nelasītā ziņa',
+	'VIEW_NEWEST_POST'			=> 'Rādīt pirmo nelasīto ziņu',
 	'VIEW_NOTES'				=> 'View user notes',
 	'VIEW_ONLINE_TIMES'			=> array(
 		1	=> 'based on users active over the past %d minute',
