@@ -7,7 +7,7 @@ Lai iesniegtu tulkojumu, lūdzu izmantojiet "development" zaru (branch), ko iesl
 
 Atverot mapi latvian_3_2_2/language/lv/ parādās saraksts ar tulkojamiem failiem, kas ir ar paplašinājumu "php". Spiežot tiem virsū un izvēloties "Edit this file" (labajā augšējā izvēlnē), parādās iespēja iztaisīt labojumus.
 
-Tulkojamie datu piemērs no faila "groups.php":
+Tulkojamo datu piemērs no faila "groups.php":
 
 $lang = array_merge($lang, array(
 	'ALREADY_DEFAULT_GROUP'		=> 'The selected group is already your default group.',
