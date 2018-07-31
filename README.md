@@ -1,10 +1,12 @@
-# phpbb32_latvian_language_pack
-Latviešu valodas paka phpBB 3.2.x versijai
+# Latviešu valodas paka phpBB 3.2.x versijai
+( phpbb32_latvian_language_pack )
 
+## Tulkošanas organizācija
 Dalībai nepieciešams reģistrēties github.com un būt autorizētam ar savu lietotāju, lai piedalītos labošanā.
 
-Lai iesniegtu tulkojumu, lūdzu izmantojiet "development" zaru (branch), ko ieslēdz pārslēdzot izvēlni no Branch: master uz Branch: development.
+Lai iesniegtu tulkojumu, lūdzu izmantojiet "development" zaru (branch), ko ieslēdz pārslēdzot izvēlni no Branch: master uz Branch: development. "Master" zars ir aizsargātais gatavais zars, kuru var publicēt vai kopēt izmantošanai. "Izstrādes" (development) zars domāts izmaiņu iesniegšanai un aktuālajiem labojumiem. Kad izstrādes zarā ir iesniegti un pieņemti gana daudz labojumi, atrisināti iesniegtie konflikti, tad izmaiņas no izstrādes zara regulāri tiks ieliktas gatavajā master zarā.
 
+## Piemērs, kā tulkot
 Atverot mapi latvian_3_2_2/language/lv/ parādās saraksts ar tulkojamiem failiem, kas ir ar paplašinājumu "php". Spiežot tiem virsū un izvēloties "Edit this file" (labajā augšējā izvēlnē), parādās iespēja iztaisīt labojumus.
 
 Tulkojamo datu piemērs no faila "groups.php":
@@ -19,5 +21,6 @@ Ja tulkojuma tekstā ir ar % atzīmēti īpašie vārdi, piemēram, "%HERE", tad
 
 Var nelabot visus tekstus, bet tikai tos, kas šķiet saprotami. Vēlama pieredze ar foruma lietošanu, lai būtu zināms kurās vietās redzami attēlojamie teksti un varētu izdarīt attiecīgās izmaiņas.
 
-Pēc tam kad labojumi ir izdarīti, tos saglabā apakšā zem labojuma loga izvēloties "Create a new branch for this commit and start a pull request." un nospiest "Propose file changes". Tas izveidos pieprasījumu izvērtēt iesniegtos labojumus.
+Pēc tam, kad labojumi ir izdarīti, tos saglabā. Apakšā zem labojuma loga var izvēlēties "Create a new branch for this commit and start a pull request." un nospiest "Propose file changes". Tas izveidos pieprasījumu izvērtēt iesniegtos labojumus.
 Vēlams ievadīt piezīmi par to kas ir izlabots vai citu svarīgu informāciju attiecībā par labojumu.
+
