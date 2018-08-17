@@ -147,9 +147,9 @@ $lang = array_merge($lang, array(
 	'CREATE_FOLDER'				=> 'Pievienot mapi…',
 	'CURRENT_IMAGE'				=> 'Pašreizējais attēls',
 	'CURRENT_PASSWORD'			=> 'Pašreizējā parole',
-	'CURRENT_PASSWORD_EXPLAIN'	=> 'Lai nomainītu jūsu lietotāja vārdu vai e-pasta adresi, jums ir jānorāda pašreizējā parole.',
-	'CURRENT_CHANGE_PASSWORD_EXPLAIN' => 'Lai nomainītu jūsu paroli, lietotāja vārdu vai e-pasta adresi, jums ir jānorāda pašreizējā parole.',
-	'CUR_PASSWORD_EMPTY'		=> 'Jūs nenorādījāt pašreizējo paroli.',
+	'CURRENT_PASSWORD_EXPLAIN'	=> 'Lai nomainītu jūsu lietotāja vārdu vai e-pasta adresi, jums ir jāievada pašreizējā parole.',
+	'CURRENT_CHANGE_PASSWORD_EXPLAIN' => 'Lai nomainītu jūsu paroli, lietotāja vārdu vai e-pasta adresi, jums ir jāievada pašreizējā parole.',
+	'CUR_PASSWORD_EMPTY'		=> 'Jūs neievadījāt pašreizējo paroli.',
 	'CUR_PASSWORD_ERROR'		=> 'Nepareizi ievadīta pašreizējā parole.',
 	'CUSTOM_DATEFORMAT'			=> 'Custom…',
 
