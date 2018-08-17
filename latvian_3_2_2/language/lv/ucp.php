@@ -441,7 +441,7 @@ $lang = array_merge($lang, array(
 	'PROFILE_INFO_NOTICE'		=> 'Lūgums ņemt vērā, ka šī informācija varētu būt redzama citiem lietotājiem. Esiet uzmanīgi izpaužot savu personīgo informāciju. Visi lauki atzīmēti ar * ir obligāti jāaizpilda.',
 	'PROFILE_UPDATED'			=> 'Jūsu profils tika atjaunināts.',
 	'PROFILE_AUTOLOGIN_KEYS'	=> '"Atcerēties mani" pieteikšanās atslēgas ļauj automātiski jums pieslēgties šim forumam. Ja jūs atsakaties no sesijas, "Atcerēties mani" pieteikšanās atslēga tiek automātiski izdzēsta no datora, kuru izmantojāt, lai pieteiktos forumam. Šeit jūs varat redzēt "Atcerēties mani" pieteikšanās atslēgas, kas tika izveidotas piesakoties šim forumam no citām ierīcēm.',
-	'PROFILE_NO_AUTOLOGIN_KEYS'	=> 'Nav saglabātas "Atcerēties mani" pieteikšanās atslēgas.',
+	'PROFILE_NO_AUTOLOGIN_KEYS'	=> 'Neeksistē iepriekš saglabātas "Atcerēties mani" pieteikšanās atslēgas.',
 
 	'RECIPIENT'							=> 'Recipient',
 	'RECIPIENTS'						=> 'Recipients',
@@ -460,7 +460,7 @@ $lang = array_merge($lang, array(
 	'REPORT_PM'							=> 'Report private message',
 	'RESIGN_SELECTED'					=> 'Resign selected',
 	'RETURN_FOLDER'						=> '%1$sReturn to previous folder%2$s',
-	'RETURN_UCP'						=> '%sAtgriezties uz lietotāja vadības paneli%s',
+	'RETURN_UCP'						=> '%sAtgriezties uz Lietotāja Vadības Paneli%s',
 	'RULE_ADDED'						=> 'Rule successfully added.',
 	'RULE_ALREADY_DEFINED'				=> 'This rule was defined previously.',
 	'RULE_DELETED'						=> 'Rule successfully removed.',
@@ -473,7 +473,7 @@ $lang = array_merge($lang, array(
 
 	'SAME_PASSWORD_ERROR'		=> 'Jūsu ievadītā jaunā parole ir tāda pati kā pašreizējā parole.',
 	'SEARCH_YOUR_POSTS'			=> 'Apskatīt jūsu ziņas',
-	'SEND_PASSWORD'				=> 'Nosūtīt paaroli',
+	'SEND_PASSWORD'				=> 'Nosūtīt paroli',
 	'SENT_AT'					=> 'Nosūtīta',			// Used before dates in private messages
 	'SHOW_EMAIL'				=> 'Lietotāji var sazināties ar mani pa e-pastu',
 	'SIGNATURE_EXPLAIN'			=> 'Šis ir teksts, kas tiks pievienots jūsu ziņām. Maksimālais garums ir %d simboli.',
@@ -500,7 +500,7 @@ $lang = array_merge($lang, array(
 	'TOO_MANY_RECIPIENTS'		=> 'You tried to send a private message to too many recipients.',
 	'TOO_MANY_REGISTERS'		=> 'You have exceeded the maximum number of registration attempts for this session. Please try again later.',
 
-	'UCP'						=> 'Lietotāja vadības panelis',
+	'UCP'						=> 'Lietotāja Vadības Panelis',
 	'UCP_ACTIVATE'				=> 'Aktivizēt kontu',
 	'UCP_ADMIN_ACTIVATE'		=> 'Please note that you will need to enter a valid email address before your account is activated. The administrator will review your account and if approved you will receive an email at the address you specified.',
 	'UCP_ATTACHMENTS'			=> 'Pielikumi',
@@ -527,10 +527,10 @@ $lang = array_merge($lang, array(
 
 	'UCP_NO_ATTACHMENTS'		=> 'You have posted no files.',
 
-	'UCP_NOTIFICATION_LIST'				=> 'Pārvaldīt notifikācijas',
-	'UCP_NOTIFICATION_LIST_EXPLAIN'		=> 'Šeit jūs varat apskatīt visas iepriekšējās notifikācijas',
-	'UCP_NOTIFICATION_OPTIONS'			=> 'Labot notifikāciju opcijas',
-	'UCP_NOTIFICATION_OPTIONS_EXPLAIN'	=> 'Šeit jūs varat iestādīt sev vēlamās foruma notifikāciju metodes.',
+	'UCP_NOTIFICATION_LIST'				=> 'Pārvaldīt paziņojumus',
+	'UCP_NOTIFICATION_LIST_EXPLAIN'		=> 'Šeit jūs varat apskatīt visus iepriekšējos paziņojumus',
+	'UCP_NOTIFICATION_OPTIONS'			=> 'Labot paziņojumu opcijas',
+	'UCP_NOTIFICATION_OPTIONS_EXPLAIN'	=> 'Šeit jūs varat iestādīt sev vēlamās foruma paziņojumu metodes.',
 
 	'UCP_PREFS'					=> 'Foruma preferences',
 	'UCP_PREFS_PERSONAL'		=> 'Labot globālos uzstādījumus',
@@ -559,7 +559,7 @@ $lang = array_merge($lang, array(
 	'UCP_REGISTER_DISABLE'			=> 'Creating a new account is currently not possible.',
 	'UCP_REMIND'					=> 'Send password',
 	'UCP_RESEND'					=> 'Send activation email',
-	'UCP_WELCOME'					=> 'Laipni lūdzam lietotāja vadības panelī. Šeit jūs varat pārraudzīt, apskatīt atjaunināt savu profilu, preferences, abonētos forumus un tematus. Jūs varat arī sūtīt ziņas citiem lietotājiem (ja atļauts). Lūgums iepazīties ar visiem paziņojumiem pirms turpināt darbību.',
+	'UCP_WELCOME'					=> 'Laipni lūdzam Lietotāja Vadības Panelī. Šeit jūs varat pārraudzīt, apskatīt atjaunināt savu profilu, preferences, abonētos forumus un tematus. Jūs varat arī sūtīt ziņas citiem lietotājiem (ja atļauts). Lūgums iepazīties ar visiem paziņojumiem pirms turpināt darbību.',
 	'UCP_ZEBRA'						=> 'Draugi &amp; nedraugi',
 	'UCP_ZEBRA_FOES'				=> 'Pārvaldīt nedraugus',
 	'UCP_ZEBRA_FRIENDS'				=> 'Pārvaldīt draugus',
@@ -597,7 +597,7 @@ $lang = array_merge($lang, array(
 	'VIEW_SIGS'					=> 'Rādīt parakstus',
 	'VIEW_SMILIES'				=> 'Rādīt emocijzīmes kā attēlus',
 	'VIEW_TOPICS_DAYS'			=> 'Rādīt tematus no iepriekšējām dienām',
-	'VIEW_TOPICS_DIR'			=> 'Rādīt tematu sakārtotus pēc',
+	'VIEW_TOPICS_DIR'			=> 'Rādīt tematus, sakārtotus pēc',
 	'VIEW_TOPICS_KEY'			=> 'Rādīt tematus šķirotus pēc',
 	'VIEW_POSTS_DAYS'			=> 'Rādīt ziņas no iepriekšējām dienām',
 	'VIEW_POSTS_DIR'			=> 'Rādīt ziņas sakārtotas pēc',
@@ -605,7 +605,7 @@ $lang = array_merge($lang, array(
 
 	'WATCHED_EXPLAIN'			=> 'Zemāk ir redzami forumi un temati, ko esat abonējuši. Jūs tiksiet informēti par jaunām ziņām kādā no tiem. Lai atceltu abonementu, atzīmējiet forumu vai tematu un tad nospiediet <em>Atsekot iezīmētajam</em> pogu.',
 	'WATCHED_FORUMS'			=> 'Pārraudzītie forumi',
-	'WATCHED_TOPICS'			=> 'Pārraudzītiet temati',
+	'WATCHED_TOPICS'			=> 'Pārraudzītie temati',
 	'WRONG_ACTIVATION'			=> 'The activation key you supplied does not match any in the database.',
 
 	'YOUR_DETAILS'				=> 'Your activity',
