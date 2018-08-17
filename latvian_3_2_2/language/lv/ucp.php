@@ -115,7 +115,7 @@ $lang = array_merge($lang, array(
 	'BIRTHDAY'					=> 'Dzimšanas diena',
 	'BIRTHDAY_EXPLAIN'			=> 'Uzstādot gadu, tiks norādīts jūsu vecums, ņemot vērā dzimšanas dienas.',
 	'BOARD_DATE_FORMAT'			=> 'Mans datuma formāts',
-	'BOARD_DATE_FORMAT_EXPLAIN'	=> 'Lietotā sintakse ir līdzīga PHP <a href="http://www.php.net/date">date()</a> funkcijai.',
+	'BOARD_DATE_FORMAT_EXPLAIN'	=> 'Lietotā sintakse ir identiska PHP <a href="http://www.php.net/date">date()</a> funkcijas formāta sintaksei.',
 	'BOARD_LANGUAGE'			=> 'Mana valoda',
 	'BOARD_STYLE'				=> 'Mans foruma stils',
 	'BOARD_TIMEZONE'			=> 'Mana laika zona',
