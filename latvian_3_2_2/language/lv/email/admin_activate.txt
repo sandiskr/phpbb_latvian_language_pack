@@ -1,13 +1,13 @@
-Subject: Activate user account
+Subject: Nepieciešams aktivizēt foruma lietotāju
 
-Hello,
+Labdien,
 
-The account owned by "{USERNAME}" has been deactivated or newly created, you should check the details of this user (if required) and handle it appropriately.
+Lietotāja profils "{USERNAME}" ir deaktivizēts vai nesen izveidots, lūdzu pārliecinies par šī lietotāja profila datu korektumu un attiecīgi pieņem lēmumu par tālāku aktivizāciju.
 
-Use this link to view the user's profile:
+Izmanto šo saiti, lai apskatītu lietotāja profilu:
 {U_USER_DETAILS}
 
-Use this link to activate the account:
+Izmanto šo saiti, lai uzreiz aktivizētu lietotāja profilu:
 {U_ACTIVATE}
 
 {EMAIL_SIG}
