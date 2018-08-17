@@ -182,7 +182,7 @@ $lang = array_merge($lang, array(
 	'DOWNLOADS'					=> 'Lejupielādes',
 	'DRAFTS_DELETED'			=> 'Visi atzīmētie melnraksti tika veikmīgi izdzēsti.',
 	'DRAFTS_EXPLAIN'			=> 'Šeit jūs varat apskatīt, labot un dzēst savus saglabātos melnrakstus.',
-	'DRAFT_UPDATED'				=> 'Melnraksts veiksmīgi atjaunināts.',
+	'DRAFT_UPDATED'				=> 'Melnraksts veiksmīgi izlabots.',
 
 	'EDIT_DRAFT_EXPLAIN'		=> 'Šeit jūs varat labot savu melnrakstu. Melnraksti nesatur pielikumus un aptauju informāciju.',
 	'EMAIL_BANNED_EMAIL'		=> 'The email address you entered is not allowed to be used.',
