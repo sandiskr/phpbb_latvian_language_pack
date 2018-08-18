@@ -50,9 +50,9 @@ $lang = array_merge($lang, array(
 	'MARK_TOPICS_READ'		=> 'Atzīmēt tematus kā lasītus',
 
 	'NEW_POSTS_HOT'			=> 'Jauni raksti [ Populārie ]',	// Not used anymore
-	'NEW_POSTS_LOCKED'		=> 'New posts [ Locked ]',	// Not used anymore
-	'NO_NEW_POSTS_HOT'		=> 'No new posts [ Popular ]',	// Not used anymore
-	'NO_NEW_POSTS_LOCKED'	=> 'No new posts [ Locked ]',	// Not used anymore
+	'NEW_POSTS_LOCKED'		=> 'Jauni raksti [ Slēgtie ]',	// Not used anymore
+	'NO_NEW_POSTS_HOT'		=> 'Nav jauni raksti [ Populārie ]',	// Not used anymore
+	'NO_NEW_POSTS_LOCKED'	=> 'Nav jauni raksti [ Slēgtie ]',	// Not used anymore
 	'NO_READ_ACCESS'		=> 'Tev nav tiesību skatīt un lasīt tēmas šajā forumā.',
 	'NO_FORUMS_IN_CATEGORY'	=> 'Šai kategorijai nav forumu.',
 	'NO_UNREAD_POSTS_HOT'		=> 'Nav nelasītu rakstu [ Populārie ]',
