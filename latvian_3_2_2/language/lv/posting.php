@@ -66,7 +66,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_Y_HELP'				=> 'Saraksts: Pievienot saraksta elementu',
 	'BUMP_ERROR'				=> 'You cannot bump this topic so soon after the last post.',
 
-	'CANNOT_DELETE_REPLIED'		=> 'Piedodiet, bet jūs varat dzēst tikai ziņojumus, uz kurām nav bijis atbildēts.',
+	'CANNOT_DELETE_REPLIED'		=> 'Piedodiet, bet jūs varat dzēst tikai ziņojumus, uz kuriem nav ticis atbildēts.',
 	'CANNOT_EDIT_POST_LOCKED'	=> 'Šis ziņojums ir bloķēts. Jūs vairāk nevarat to labot.',
 	'CANNOT_EDIT_TIME'			=> 'Jūs vairāk nevarat labot vai dzēst šo ziņojumu.',
 	'CANNOT_POST_ANNOUNCE'		=> 'Sorry but you cannot post announcements.',
