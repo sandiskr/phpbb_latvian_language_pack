@@ -1,6 +1,9 @@
-# Latviešu valodas paka phpBB 3.2.x versijai
-( phpbb32_latvian_language_pack )
+# Latviešu valodas paka phpBB versijām
+( phpbb_latvian_language_pack )
 English readers, please see below.
+
+## PHPBB versijas
+Tiek atbalstīta 3.2.x versija. Skatīt atbilstošās mapes. Piemēram, 3_2_2 nozīmē tulkojuma pamatne ņemta no 3.2.2 PHPBB versijas, taču tā atbilst visām 3.2.x versijām. Ar garantiju pilnīgi visas tulkojamās konstantes būs pieejamas tieši konkrētajā PHPBB versijā, taču izmaiņas starp, piemēram, 3.2.2 un 3.2.3 versijām parasti neietver ļoti milzīgas izmaiņas. Protams, ideālāk ir izmantot jaunāko no pieejamām atbilstošajām versijām.
 
 ## Tulkošanas organizācija
 Dalībai nepieciešams reģistrēties github.com un būt autorizētam ar savu lietotāju, lai piedalītos labošanā.
