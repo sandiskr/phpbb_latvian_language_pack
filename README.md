@@ -9,9 +9,12 @@ English readers, please see below.
 Vispilnīgākā saderība ir nodrošināta, ja izmantotā tulkojuma un phpBB forumu versijas pilnībā sakrīt. Šobrīd ir pieejami tulkojumi phpBB versijām 3.3.3 un 3.2.2.
 Ja tiek lietota cita phpBB foruma versija, liela iespēja ir, ka tulkojums strādās. Piemēram, visām versijām 3.2.x var izmantot pieejamo 3.2.2 versijas tulkojumu, visām 3.3.x versijām var izmantot 3.3.3 versijas tulkojumu. Arī 3.3.x versijas var izmantot 3.2.2 tulkojumu, lai gan tas nebūtu vēlams, jo ar 3.3.x versiju ir ieviesti jauni lauki, kas pavisam noteikti nebūs iztulkoti. Nav vēlams izmantot phpBB foruma 3.2.x versijā tulkojumu no 3.3.x versijas, jo jaunākajā būtiskajā versijā ir jaunievedumi, kurus vecāka versija nemācēs izmantot un, piemēram, dažādos ziņojumos var rādīties tulkojuma koda daļas.
 
-Šobrīd ir pieejamas divas tulkojuma versijas:
-3.2.2, kas izvietots apakšmapē latvian_3_2_2
-3.3.3, kas izvietots apakšmapē latvian_3_3_3
+Šobrīd ir pieejamas trīs tulkojuma versijas:
+- 3.2.2, kas izvietots apakšmapē latvian_3_2_2
+- **3.2.11**, kas izvietots apakšmapē latvian_3_2_11
+- **3.3.3**, kas izvietots apakšmapē latvian_3_3_3
+
+Izceltas versijas, kas ir aktuālākās versijas atbilstoši phpBB forumu versijām.
 
 ## Tulkošanas organizācija
 Dalībai nepieciešams reģistrēties github.com un būt autorizētam ar savu lietotāju, lai piedalītos labošanā.
