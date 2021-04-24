@@ -38,7 +38,9 @@ Var nelabot visus tekstus, bet tikai tos, kas šķiet saprotami. Vēlama pieredz
 Pēc tam, kad labojumi ir izdarīti, tos saglabā. Apakšā zem labojuma loga var izvēlēties "Create a new branch for this commit and start a pull request." un nospiest "Propose file changes". Tas izveidos pieprasījumu izvērtēt iesniegtos labojumus.
 Vēlams ievadīt piezīmi par to kas ir izlabots vai citu svarīgu informāciju attiecībā par labojumu.
 
-Oficiālā pamācība kā veikt tulkošanu atrodama šeit (angļu valodā): http://area51.phpbb.com/docs/32x/coding-guidelines.html#translation
+Oficiālā pamācība kā veikt tulkošanu atrodama šeit (angļu valodā):
+Versijām 3.3.x: https://area51.phpbb.com/docs/33x/coding-guidelines.html#translation
+Versijām 3.2.x: https://area51.phpbb.com/docs/32x/coding-guidelines.html#translation
 
 # Latvian translation pack for phpBB
 
