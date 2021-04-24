@@ -60,12 +60,12 @@ $lang = array_merge($lang, array(
 	'CONFIRM_EMAIL_EXPLAIN'			=> 'You only need to specify this if you are changing the users email address.',
 
 	'DELETE_POSTS'			=> 'Delete posts',
-	'DELETE_USER'			=> 'Delete user',
-	'DELETE_USER_EXPLAIN'	=> 'Please note that deleting a user is final, they cannot be recovered. Unread private messages sent by this user will be deleted and will not be available to their recipients.',
+	'DELETE_USER'			=> 'Izdzēst lietotāju',
+	'DELETE_USER_EXPLAIN'	=> 'Lietotāja izdzēšana ir galīgs process no kura nevar atgūt datus. Šī lietotāja nelasītie privātie paziņojumi tiks neatgriezeniski dzēsti un nebūs pieejami saņēmējiem.',
 
 	'FORCE_REACTIVATION_SUCCESS'	=> 'Successfully forced reactivation.',
-	'FOUNDER'						=> 'Founder',
-	'FOUNDER_EXPLAIN'				=> 'Founders have all administrative permissions and can never be banned, deleted or altered by non-founder members.',
+	'FOUNDER'						=> 'Foruma dibinātājs',
+	'FOUNDER_EXPLAIN'		=> 'Foruma dibinātāji ir īpaši lietotāji, kuriem ir pilnīgi visas administratīvās privilēģijas un kurus nevar nobanot, dzēst vai labot, ja neskaitās cits dibinātājs.',
 
 	'GROUP_APPROVE'					=> 'Approve member',
 	'GROUP_DEFAULT'					=> 'Make group default for member',
@@ -75,24 +75,24 @@ $lang = array_merge($lang, array(
 
 	'IP_WHOIS_FOR'			=> 'IP whois for %s',
 
-	'LAST_ACTIVE'			=> 'Last active',
+	'LAST_ACTIVE'			=> 'Pēdējoreiz aktīvs',
 
 	'MOVE_POSTS_EXPLAIN'	=> 'Please select the forum to which you wish to move all the posts this user has made.',
 
 	'NO_SPECIAL_RANK'		=> 'No special rank assigned',
 	'NO_WARNINGS'			=> 'No warnings.',
-	'NOT_MANAGE_FOUNDER'	=> 'You tried to manage a user with founder status. Only founders are allowed to manage other founders.',
+	'NOT_MANAGE_FOUNDER'	=> 'Mēģināji pārvaldīt lietotāju, kam ir foruma dibinātāja statuss. Nepieciešamas foruma dibinātāja privilēģijas, lai labotu citu foruma dibinātāju.',
 
-	'QUICK_TOOLS'			=> 'Quick tools',
+	'QUICK_TOOLS'			=> 'Ātrais risinājums',
 
-	'REGISTERED'			=> 'Registered',
-	'REGISTERED_IP'			=> 'Registered from IP',
+	'REGISTERED'			=> 'Reģistrācijas datums',
+	'REGISTERED_IP'			=> 'Reģistrācija no IP adreses',
 	'RETAIN_POSTS'			=> 'Retain posts',
 
-	'SELECT_FORM'			=> 'Select form',
-	'SELECT_USER'			=> 'Select user',
+	'SELECT_FORM'			=> 'Izvēlēties pārvaldes kategoriju',
+	'SELECT_USER'			=> 'Izvēlēties lietotāju',
 
-	'USER_ADMIN'					=> 'User administration',
+	'USER_ADMIN'					=> 'Lietotāja pārvalde',
 	'USER_ADMIN_ACTIVATE'			=> 'Activate account',
 	'USER_ADMIN_ACTIVATED'			=> 'User activated successfully.',
 	'USER_ADMIN_AVATAR_REMOVED'		=> 'Successfully removed avatar from user account.',
@@ -109,7 +109,7 @@ $lang = array_merge($lang, array(
 	'USER_ADMIN_DEL_OUTBOX'			=> 'Empty PM outbox',
 	'USER_ADMIN_DEL_POSTS'			=> 'Delete all posts',
 	'USER_ADMIN_DEL_SIG'			=> 'Delete signature',
-	'USER_ADMIN_EXPLAIN'			=> 'Here you can change your users information and certain specific options.',
+	'USER_ADMIN_EXPLAIN'			=> 'Šajā lapā ir iespējams mainīt lietotāja informāciju un tā iestatījumus.',
 	'USER_ADMIN_FORCE'				=> 'Force reactivation',
 	'USER_ADMIN_LEAVE_NR'			=> 'Remove from Newly Registered',
 	'USER_ADMIN_MOVE_POSTS'			=> 'Move all posts',
@@ -139,5 +139,5 @@ $lang = array_merge($lang, array(
 	'USER_RANK_UPDATED'				=> 'User rank updated.',
 	'USER_SIG_UPDATED'				=> 'User signature successfully updated.',
 	'USER_WARNING_LOG_DELETED'		=> 'No information available. Possibly the log entry has been deleted.',
-	'USER_TOOLS'					=> 'Basic tools',
+	'USER_TOOLS'					=> 'Pamata rīki',
 ));
