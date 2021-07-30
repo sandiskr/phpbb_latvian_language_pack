@@ -51,25 +51,25 @@ $lang = array_merge($lang, array(
 
 	'CODE'					=> 'Code',
 
-	'DELETE_TOPIC'			=> 'Delete topic',
-	'DELETED_INFORMATION'	=> 'Deleted by %1$s on %2$s',
+	'DELETE_TOPIC'			=> 'Dzēst tēmu',
+	'DELETED_INFORMATION'	=> 'Lietotājs %1$s dzēsis %2$s',
 	'DISAPPROVE'					=> 'Disapprove',
-	'DOWNLOAD_NOTICE'		=> 'You do not have the required permissions to view the files attached to this post.',
+	'DOWNLOAD_NOTICE'		=> 'Tev trūkst privilēģijas skatīties failus, kas ir pievienoti šim ierakstam.',
 
 	'EDITED_TIMES_TOTAL'	=> array(
 		1	=> 'Last edited by %2$s on %3$s, edited %1$d time in total.',
 		2	=> 'Last edited by %2$s on %3$s, edited %1$d times in total.',
 	),
 	'EMAIL_TOPIC'			=> 'Email topic',
-	'ERROR_NO_ATTACHMENT'	=> 'The selected attachment does not exist anymore.',
+	'ERROR_NO_ATTACHMENT'	=> 'Izvēlētais faila pielikums vairāk neeksistē.',
 
-	'FILE_NOT_FOUND_404'	=> 'The file <strong>%s</strong> does not exist.',
+	'FILE_NOT_FOUND_404'	=> 'Fails <strong>%s</strong> neeksistē.',
 	'FORK_TOPIC'			=> 'Copy topic',
 	'FULL_EDITOR'			=> 'Full Editor &amp; Preview',
 
-	'LINKAGE_FORBIDDEN'		=> 'You are not authorised to view, download or link from/to this site.',
+	'LINKAGE_FORBIDDEN'		=> 'Tev nav tiesību skatīt, lejupielādēt vai iztaisīt saiti uz šo informācijas vietu.',
 	'LOGIN_NOTIFY_TOPIC'	=> 'You have been notified about this topic, please login to view it.',
-	'LOGIN_VIEWTOPIC'		=> 'The board requires you to be registered and logged in to view this topic.',
+	'LOGIN_VIEWTOPIC'		=> 'Tev nepieciešams reģistrēties un pieslēgties šim forumam, lai skatītu šo tēmu.',
 
 	'MAKE_ANNOUNCE'				=> 'Change to “Announcement”',
 	'MAKE_GLOBAL'				=> 'Change to “Global”',
@@ -104,10 +104,10 @@ $lang = array_merge($lang, array(
 	'RESTORE_TOPIC'			=> 'Restore topic',
 	'RETURN_POST'			=> '%sReturn to the post%s',
 
-	'SUBMIT_VOTE'			=> 'Submit vote',
+	'SUBMIT_VOTE'			=> 'Iesniegt balsojumu',
 
 	'TOPIC_TOOLS'			=> 'Topic tools',
-	'TOTAL_VOTES'			=> 'Total votes',
+	'TOTAL_VOTES'			=> 'Kopējās balsis',
 
 	'UNLOCK_TOPIC'			=> 'Unlock topic',
 
